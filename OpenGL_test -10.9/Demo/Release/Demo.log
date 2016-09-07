@@ -1,0 +1,54 @@
+﻿  Demo.cpp
+Demo.cpp(276): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+Demo.cpp(277): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwWindowShouldClose
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewBindBuffer
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteVertexArrays
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewActiveTexture
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glClear@4
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwSetKeyCallback
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwInit
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glClearColor@16
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewVertexAttribPointer
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteShader
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewCreateShader
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderInfoLog
+Demo.obj : error LNK2001: 无法解析的外部符号 _glewInit@0
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewLinkProgram
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewCompileShader
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGenVertexArrays
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glBindTexture@8
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwCreateWindow
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glTexImage2D@36
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwMakeContextCurrent
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewUseProgram
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewShaderSource
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewBufferData
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewBindVertexArray
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glDrawArrays@12
+Demo.obj : error LNK2001: 无法解析的外部符号 _SOIL_free_image_data
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glTexParameteri@12
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewUniformMatrix4fv
+Demo.obj : error LNK2001: 无法解析的外部符号 _SOIL_load_image
+Demo.obj : error LNK2001: 无法解析的外部符号 _glewExperimental
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteBuffers
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwSwapBuffers
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGenBuffers
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwWindowHint
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwGetTime
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramiv
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glViewport@16
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGenerateMipmap
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwPollEvents
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glEnable@4
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderiv
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramInfoLog
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwSetWindowShouldClose
+Demo.obj : error LNK2001: 无法解析的外部符号 _glfwTerminate
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewCreateProgram
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewUniform1i
+Demo.obj : error LNK2001: 无法解析的外部符号 __imp__glGenTextures@8
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewEnableVertexAttribArray
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewAttachShader
+Demo.obj : error LNK2001: 无法解析的外部符号 ___glewGetUniformLocation
+C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Release\Demo.exe : fatal error LNK1120: 50 个无法解析的外部命令

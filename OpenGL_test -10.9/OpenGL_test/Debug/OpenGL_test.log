@@ -1,0 +1,63 @@
+﻿  GL_WINDOWN_TEST.cpp
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(19): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(22): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(178): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(179): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(180): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(181): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(238): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(257): warning C4305: “-=”: 从“double”到“float”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(276): warning C4305: “+=”: 从“double”到“float”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(295): warning C4305: “-=”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(318): warning C4305: “+=”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(328): warning C4305: “+=”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\callbackfunction.h(337): warning C4305: “-=”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\framebuffermanager.h(22): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\framebuffermanager.h(22): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\framebuffermanager.h(30): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\framebuffermanager.h(30): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(64): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(64): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(65): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(69): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(69): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(70): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(74): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(74): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(75): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(79): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(79): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(80): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(84): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(84): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(85): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(89): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(89): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(90): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(208): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(209): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(228): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(228): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(237): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(237): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(258): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\renderdata.h(258): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\gl_windown_test.cpp(36): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\gl_windown_test.cpp(36): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\gl_windown_test.cpp(72): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\opengl_src\opengl_study\opengl_test\opengl_test\updatacamera.h(24): warning C4715: “Camera::GetInstance”: 不是所有的控件路径都返回值
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(context.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(init.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(input.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(monitor.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(window.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(win32_init.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(win32_time.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_tls.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(win32_tls.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(win32_window.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(winmm_joystick.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(winmm_joystick.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  OpenGL_test.vcxproj -> C:\OpenGL_SRC\OpenGL_Study\OpenGL_test\Debug\OpenGL_test.exe

@@ -19,25 +19,13 @@ int main()
 	glfwGetFramebufferSize(drawContext,&width,&height);
 	glViewport(0,0,width,height);
 	glPolygonMode(GL_FRONT_AND_BACK,GL_FILL);
-	
-	glEnable(GL_DEPTH_TEST);
-
 	glDisable(GL_DEPTH_TEST);
 	glEnable(GL_BLEND);
 
-		glBlendFunc(GL_SRC_ALPHA, GL_DST_ALPHA);   
-		glBlendFunc(GL_SRC_COLOR, GL_DST_COLOR);   
-	//glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
-
 	while (!glfwWindowShouldClose(drawContext))
 	{
-		//	glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
-		//glBlendFunc(GL_ONE,GL_ZERO);
-		/*glBlendEquation(GL_FUNC_ADD);  
-		glBlendFuncSeparate(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA, GL_ONE, GL_ZERO); */
 		glClearColor(0.0f, 0.3f, 0.3f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
-	
 		
 		Vector3 offset;
 		Color innerColor;

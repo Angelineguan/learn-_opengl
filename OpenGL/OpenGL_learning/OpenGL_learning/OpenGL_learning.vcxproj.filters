@@ -13,13 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\helper">
+      <UniqueIdentifier>{9fa7deaa-f140-46db-94ca-2d2560b74b27}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\stdafx.h">
+    <ClInclude Include="include\DrawTriangle.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="src\GraphicContext.h">
+    <ClInclude Include="include\Vector3.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GraphicContext.h">
+      <Filter>头文件\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ShaderManager.h">
+      <Filter>头文件\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CallBackCollections.h">
+      <Filter>头文件\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stdafx.h">
+      <Filter>头文件\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="include\util.h">
+      <Filter>头文件\helper</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -32,5 +50,21 @@
     <ClCompile Include="src\GraphicContext.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\CallBackCollections.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ShaderManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
 </Project>

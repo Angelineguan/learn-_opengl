@@ -1,5 +1,6 @@
 
 #include "GraphicContext.h"
+#include "CallBackCollections.h"
 
 DrawContext *g_context;
 
@@ -41,3 +42,10 @@ void Graphic_destruct()
 	glfwDestroyWindow(o);
 	glfwTerminate();
 }
+
+void setGraphicCallbackCollections()
+{
+	DrawContext*o=g_context;
+	glfwSetKeyCallback(o,key_callback);
+}
+

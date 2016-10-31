@@ -81,13 +81,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="include\CallBackCollections.h" />
+    <ClInclude Include="include\DrawTriangle.h" />
+    <ClInclude Include="include\GraphicContext.h" />
+    <ClInclude Include="include\ShaderManager.h" />
     <ClInclude Include="include\stdafx.h" />
-    <ClInclude Include="src\GraphicContext.h" />
+    <ClInclude Include="include\util.h" />
+    <ClInclude Include="include\Vector3.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DrawTriangle.cpp" />
+    <ClCompile Include="src\CallBackCollections.cpp" />
     <ClCompile Include="src\GraphicContext.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\ShaderManager.cpp" />
     <ClCompile Include="src\stdafx.cpp" />
+    <ClCompile Include="util.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
